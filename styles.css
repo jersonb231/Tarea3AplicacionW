@@ -31,10 +31,7 @@ label {
     color: #cccccc;
 }
 
-input[type="text"],
-input[type="email"],
-input[type="date"],
-input[type="number"] {
+input{
     width: 100%;
     padding: 10px;
     margin-bottom: 15px;
